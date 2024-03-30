@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans';
+    
+}
+.roupa {
+    box-sizing: border-box;
+    width: 100%;
+}
+.valorPix{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+   
+
+}
+.valorCartao{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.valorCredito{
+    color: rgb(109, 109, 109);
+    font-weight: bold;
+    font-size: 20px;
+}
+.nomeRoupa{
+    font-weight: bold;
+    font-size: 20px;
+}
